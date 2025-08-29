@@ -4,7 +4,7 @@
 A passionate developer building real-world backend systems using **Java, Spring Boot, Kafka**, and **REST APIs**, while also exploring **Machine Learning** and **Deep Learning** with **Flask, scikit-learn, and TensorFlow**.
 
 - 🔭 I just finished building: [Real-Time Fraud Detection Microservice](https://github.com/Suhas2609/Real-Time-Fraud-Detection-Microservice)
-- 🌱 Currently learning: Distributed Systems, JUnit, Docker, CI/CD, LLM-based agents
+- 🌱 Currently learning: LLM-based agents
 - 👨‍💻 All my real-world projects are here on [GitHub](https://github.com/Suhas2609)
 - 💬 Ask me about: Java, Spring Boot, Kafka, Flask APIs, ML Pipelines, Deep Learning
 - 📫 Reach me at: suhas26092004@gmail.com
